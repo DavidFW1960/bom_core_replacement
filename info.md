@@ -1,0 +1,1 @@
+This is a clone of the BOM core component that was removed in 0.117.0

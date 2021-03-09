@@ -4,5 +4,5 @@
   "documentation": "https://github.com/DavidFW1960/bom_core_replacement",
   "requirements": ["bomradarloop==0.1.5"],
   "codeowners": ["@davidfw1960"],
-  "version": "0.0.0"
+  "version": "2021.3.1"
 }
